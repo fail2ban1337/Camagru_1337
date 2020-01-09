@@ -36,7 +36,7 @@ http://localhost/abelomar/install/setup
 3. Settings Page:
 <img width="720" alt="Screen Shot 2020-01-09 at 5 08 47 PM" src="https://user-images.githubusercontent.com/47558088/72083839-bd790e80-3302-11ea-960f-9b17f2b3176b.png">
 
-4. 
+4. Studio Page:
 <img width="1373" alt="Screen Shot 2020-01-09 at 5 11 38 PM" src="https://user-images.githubusercontent.com/47558088/72085173-2792b300-3305-11ea-8a62-8020456feaba.png">
 
 # Contributing
