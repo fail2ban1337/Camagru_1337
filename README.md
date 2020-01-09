@@ -27,6 +27,7 @@ define ('DB_DSN', $DB_DSN);
 http://localhost/abelomar/install/setup
 ```
 # PAGES :
+<div style="text-align:center">
 1. Register Page:
 <img width="720" alt="Screen Shot 2020-01-09 at 5 04 10 PM" src="https://user-images.githubusercontent.com/47558088/72083537-49d70180-3302-11ea-8b1b-e60da4d16e46.png">
 
@@ -41,7 +42,7 @@ http://localhost/abelomar/install/setup
 
 5. Home Page:
 <img width="720" alt="Screen Shot 2020-01-09 at 5 12 02 PM" src="https://user-images.githubusercontent.com/47558088/72085424-91ab5800-3305-11ea-9134-87ed1dfbdfea.png">
-
+</div>
 # Contributing
 Feel free to contribute if you think something can be improved in any way.
 
