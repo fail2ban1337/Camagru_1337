@@ -56,9 +56,11 @@ http://localhost/abelomar/install/setup
 <img width="720" alt="Screen Shot 2020-01-09 at 5 12 02 PM" src="https://user-images.githubusercontent.com/47558088/72085424-91ab5800-3305-11ea-9134-87ed1dfbdfea.png">
 </div>
 
-# First Project using php MVC
 
 # Contributing
 Feel free to contribute if you think something can be improved in any way.
 
 Happy coding ⚡
+
+First Project using php MVC
+
