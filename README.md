@@ -37,3 +37,7 @@ http://localhost/abelomar/install/setup
 <img width="720" alt="Screen Shot 2020-01-09 at 5 08 47 PM" src="https://user-images.githubusercontent.com/47558088/72083839-bd790e80-3302-11ea-960f-9b17f2b3176b.png">
 
 
+# Contributing
+Feel free to contribute if you think something can be improved in any way.
+
+Happy coding ⚡
